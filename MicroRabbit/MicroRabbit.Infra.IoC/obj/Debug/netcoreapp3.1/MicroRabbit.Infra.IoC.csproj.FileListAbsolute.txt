@@ -1,0 +1,9 @@
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.deps.json
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.dll
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.AssemblyInfo.cs
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.pdb
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.dll
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.pdb
