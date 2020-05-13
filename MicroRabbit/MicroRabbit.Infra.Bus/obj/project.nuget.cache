@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uv80vw2Aplvci7s4g9X3Sjm4ovvjLPVkWME9MOcaSJ7fScRL2895a//AQwcwjh1/Dnk8d+XW9FGG9BzijYZ9FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\steff\\Desktop\\source\\repos\\Microservice\\microrab\\MicroRabbit\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steff\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\steff\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\steff\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\steff\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
