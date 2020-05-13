@@ -6,3 +6,4 @@ C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbi
 C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.AssemblyInfo.cs
 C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.dll
 C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.pdb
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.csprojAssemblyReference.cache
