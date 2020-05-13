@@ -10,3 +10,5 @@ C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbi
 C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
 C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.csprojAssemblyReference.cache
 C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.csproj.CopyComplete
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

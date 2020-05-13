@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fubAwQ8T2quHgpUBTGWKOcRetFkG93/H7+SPl1D6VGfXREA2/x92A8P1hLCqd6ku7J6WfqgWmQ0OO0A86sO/ng==",
+  "dgSpecHash": "o2vK2OS3jwVoyMu18AfJbiOqXIO7JJ7wMOyupXBBWM/rBIb7WcuzRs3M6dOsaLcWxRym1y4l+02Mt/JtKuDzpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\steff\\Desktop\\source\\repos\\Microservice\\microrab\\MicroRabbit\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\steff\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\steff\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\steff\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\steff\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
