@@ -76,3 +76,9 @@ C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbi
 C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
 C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.dll
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.dll
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.pdb
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.pdb
+C:\Users\steff\Desktop\source\repos\Microservice\microrab\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
