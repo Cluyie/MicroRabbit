@@ -37,8 +37,7 @@ namespace MicroRabbit.Banking.Api
                 options.UseSqlServer(Configuration.GetConnectionString("BankingDbConnection"));
             });
             services.AddControllers();
-
-            RegisterServices(services);
+           
 
             services.AddSwaggerGen(c =>
             {
@@ -47,6 +46,8 @@ namespace MicroRabbit.Banking.Api
 
 
             services.AddMediatR(typeof(Startup));
+
+            RegisterServices(services);
         }
 
         private void RegisterServices(IServiceCollection services)
@@ -72,7 +73,6 @@ namespace MicroRabbit.Banking.Api
 
             app.UseRouting();
 
-            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {

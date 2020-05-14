@@ -2,7 +2,7 @@
 
 namespace MicroRabbit.Transfer.Data.Migrations
 {
-    public partial class InitialMigration : Migration
+    public partial class Initial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -12,8 +12,8 @@ namespace MicroRabbit.Transfer.Data.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    FromAccount = table.Column<string>(nullable: true),
-                    ToAccount = table.Column<decimal>(nullable: false),
+                    FromAccount = table.Column<int>(nullable: false),
+                    ToAccount = table.Column<int>(nullable: false),
                     TransferAmount = table.Column<decimal>(nullable: false)
                 },
                 constraints: table =>

@@ -39,9 +39,7 @@ namespace MicroRabbit.Transfer.Api
             {
                 options.UseSqlServer(Configuration.GetConnectionString("TransferDbConnection"));
             });
-            services.AddControllers();
-
-            RegisterServices(services);
+            services.AddControllers();            
 
             services.AddSwaggerGen(c =>
             {
@@ -50,6 +48,8 @@ namespace MicroRabbit.Transfer.Api
 
 
             services.AddMediatR(typeof(Startup));
+
+            RegisterServices(services);
         }
 
         private void RegisterServices(IServiceCollection services)
@@ -75,7 +75,7 @@ namespace MicroRabbit.Transfer.Api
 
             app.UseRouting();
 
-            app.UseAuthorization();
+          
 
             app.UseEndpoints(endpoints =>
             {

@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MicroRabbit.Transfer.Data.Migrations
 {
     [DbContext(typeof(TransferDbContext))]
-    [Migration("20200513172710_Initial Migration")]
-    partial class InitialMigration
+    [Migration("20200514072834_Initial")]
+    partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -27,11 +27,11 @@ namespace MicroRabbit.Transfer.Data.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("FromAccount")
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("FromAccount")
+                        .HasColumnType("int");
 
-                    b.Property<decimal>("ToAccount")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<int>("ToAccount")
+                        .HasColumnType("int");
 
                     b.Property<decimal>("TransferAmount")
                         .HasColumnType("decimal(18,2)");

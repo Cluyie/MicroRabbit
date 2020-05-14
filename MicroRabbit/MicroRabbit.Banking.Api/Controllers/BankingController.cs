@@ -28,7 +28,7 @@ namespace MicroRabbit.Banking.Api.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post ([FromBody] AccountTransfer accountTransfer)
+        public IActionResult Post (AccountTransfer accountTransfer)
         {
             _accountService.Transfer(accountTransfer);
             return Ok(accountTransfer);
